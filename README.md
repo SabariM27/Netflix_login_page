@@ -1,2 +1,14 @@
 # Netflix_login_page
-This is a simple clone of the Netflix webpage built using modern web technologies. The project aims to replicate the core design and functionality of the Netflix homepage with features like a movie carousel, responsive layout, and user-friendly interface.
+This project is a simple clone of the Netflix homepage using only HTML and CSS. It replicates the layout and design of Netflix's main page, featuring a responsive design with a movie carousel and styled components.
+
+Features
+Responsive Layout: The webpage adjusts to different screen sizes for desktop, tablet, and mobile.
+Hero Section: A large banner at the top with a background image.
+Movie Carousel: A scrollable section showcasing movie posters.
+Basic Styling: Clean and minimal design similar to the Netflix homepage.
+Technologies Used
+HTML5: Used for structuring the content of the webpage.
+CSS3: Used for styling and layout. Includes:
+Flexbox and Grid for layout.
+Media queries for responsiveness.
+Hover effects on movie posters.
