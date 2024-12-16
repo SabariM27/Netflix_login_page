@@ -6,7 +6,7 @@ Responsive Layout: The webpage adjusts to different screen sizes for desktop, ta
 Hero Section: A large banner at the top with a background image.
 Movie Carousel: A scrollable section showcasing movie posters.
 Basic Styling: Clean and minimal design similar to the Netflix homepage.
-Technologies Used
+# Technologies Used
 HTML5: Used for structuring the content of the webpage.
 CSS3: Used for styling and layout. Includes:
 Flexbox and Grid for layout.
